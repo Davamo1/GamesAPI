@@ -1,0 +1,1 @@
+let webApiGet = new WebApiGet();
